@@ -3,7 +3,7 @@
   <h1 align="center">DiscPyth</h1>
 </p>
 
-[![Discord](https://img.shields.io/discord/886481241656922122?label=Support%20Server&logo=discord&style=flat-square&color=5865f2&labelColor=36393f)](https://discord.gg/8RATdNBs6n)
+[![Discord](https://img.shields.io/discord/886481241656922122?label=DiscPyth%20-%20Support%20Server&logo=discord&style=flat-square&color=5865f2&labelColor=36393f)](https://discord.gg/8RATdNBs6n)
 
 ## DiscPyth
 
@@ -20,6 +20,8 @@
 Discord API wrapper for golang by **[@bwmarrin](https://github.com/bwmarrin)** called **[discordgo](https://github.com/bwmarrin/discordgo)**
 it is both simple and easy to use. The fact that DiscPyth is just a discordgo *clone* in Python makes DiscPyth also simple and easy to use.
 
+#### Documentation - `WIP`
+
 ## GoPyJSON
 
 [![GitHub Latest Commit](https://img.shields.io/github/last-commit/DiscPyth/GoPyJSON?label=Latest%20Commit&logo=github&style=flat-square)](https://github.com/DiscPyth/GoPyJSON)
@@ -31,3 +33,5 @@ it is both simple and easy to use. The fact that DiscPyth is just a discordgo *c
 
 DiscPyth also uses a modification of the original JSON module in Python called **GoPyJSON** to parse data in a non-complicated manner.
 It is available for public use find out more at [GoPyJSON](https://github.com/DiscPyth/GoPyJSON)
+
+#### Documentation - **[Wiki](https://github.com/DiscPyth/GoPyJSON/wiki)**
