@@ -39,3 +39,5 @@ DiscPyth also uses a modification of the original JSON module in Python called *
 It is available for public use find out more at [Go_JSON](https://github.com/DiscPyth/Go_JSON)
 
 #### Documentation - **[Wiki](https://github.com/DiscPyth/Go_JSON/wiki)**
+
+> © All Rights Reserved. GoLang Organization and Json Organization® respectively for the use of their logo in Go_JSON's logo.
